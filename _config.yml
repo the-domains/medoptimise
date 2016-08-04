@@ -1,0 +1,14 @@
+layout_spectrum: 0.9963717935606837
+typography_spectrum: 0.6436074757948518
+color:
+  brandStrength: 0.39048196701332927
+  lightness: 0.39466681191697717
+  saturation: 0.706799587002024
+  rhythmicContrast: 0.48015286726877093
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: MedOptimise
